@@ -22,6 +22,9 @@ The team also investigated how the distance of these microplastic affects to the
 The red dots represent microplastic, the brown areas area the fishing areas and the black dots represent the fisheries. The distance is calculated using the existing functions in Qgis
 ![image](https://user-images.githubusercontent.com/76080326/200114039-c2e629ec-535f-458f-bdd0-05cc94430002.png)
 
+
+
+
 The explroation of the data is in the PowerBi dashboard  https://github.com/venkat0011/BC3406/blob/main/project%20analysis.pbix
 
 The team developed a panel regression model to identify the trends of across the different species of aquaculture and found that some species are positvely correlated with the amount of microplastic and the others are negatively correlated. Since the positive correlation doesn't make sense the team createad a CART model to explain these differences and it was found that those species that were positvely correlated had either very  little microplastic or these microplastic are located further away from the fisheries 
